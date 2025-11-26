@@ -1,6 +1,5 @@
 # Amiga PiStorm Compatible Zorro Hardware List
 
-## PiStorm Zorro compatible hardware list
 This table lists the Amiga Zorro hardware known to be compatible or incompatible with the PiStorm.
 If you have tested hardware that works with PiStorm and want to add it to the list, please document your findings and submit an issue for me to add to or update the list.
 
